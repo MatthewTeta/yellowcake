@@ -1,9 +1,9 @@
 ---
 template: ComponentsPage
 slug: components
-title: Components Page
-featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
-subtitle: This is the components page subtitle.
+title: Request a Shipping Label
+featuredImage: https://ucarecdn.com/ec15d9db-22f5-4421-a296-d8f16a2d20a0/
+subtitle: Submit a photo of your vapes to get started
 section1: >-
   ## This is a container component
 
