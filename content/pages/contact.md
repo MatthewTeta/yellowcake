@@ -1,19 +1,20 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact Page
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
-subtitle: This is the contact page subtitle.
-address: '404 James St, Burleigh Heads QLD 4220'
-phone: 0987 123 456
-email: example@example.com
+title: Contact Us
+featuredImage: https://ucarecdn.com/51eb200f-eed3-41b9-9838-d75a454678af/
+subtitle: Have questions, concerns, or want to get involved?
+address: 1613 Metropolitan Dr, Unit B, Longmont CO, 80504
+phone: +1 (720) 227-6630
+email: vaperecycle@gmail.com
 locations:
-  - lat: '-27.9654732'
-    lng: '153.2432449'
-    mapLink: ''
+  - mapLink: https://www.google.com/maps/place/1613+Metropolitan+Dr,+Longmont,+CO+80504/@40.187709,-105.0724479,17z/
+    lat: "40.187709"
+    lng: "-105.0724479"
 meta:
-  description: This is a meta description.
+  description: Contact VapeRecycling
   title: Contact Page
+  canonicalLink: contact
 ---
 
 # Example contact form
