@@ -1,30 +1,28 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: VapeRecyling
+featuredImage: https://ucarecdn.com/20ff3d75-b377-4aba-aa91-0eff6f667df3/
+subtitle: Lets make an electric car out of old vapes...?
+accordion: []
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Send us old, used, empty, dead disposable vape devices to be
+    properly recycled.
+  title: VapeRecycling
+  canonicalLink: ""
 ---
+# Our Mission
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+VapeRecycling is passionate about properly reusing and recycling the resources inside of disposable vape devices. Many of these devices contain resources such as cobalt, nickel, magnesium, and lithium. The extraction, production, and improper disposal of these materials can devastate nearby ecosystems. Currently, child labor commonly used for the processing of these materials ([Sources]()). 
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+Our mission is to make it as easy as possible for the public to properly dispose of empty vapes by using technology to automate the recycling processes and get important materials back into the supply chain as quickly as possible. 
 
-# Features
+# How it Works
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
+1. **Collect at least 5 used battery operated devices**
+2. **Request a shipping label by submitting a photo of the devices**
+3. **Once approved, a shipping label will arrive in your email**
+4. **Package the devices securely and apply your shipping label ([How to Package and Ship Vapes]())**
+5. **Drop the package in a mailbox near you, and forget about it!**
 
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+# [Request a Shipping Label]()
