@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact Us
-featuredImage: https://ucarecdn.com/51eb200f-eed3-41b9-9838-d75a454678af/
+featuredImage: https://ucarecdn.com/ffcf62f4-93ed-4fae-a4a0-ad08b3581d01/
 subtitle: Have questions, concerns, or want to get involved?
 address: 1613 Metropolitan Dr, Unit B, Longmont CO, 80504
 phone: +1 (720) 227-6630
